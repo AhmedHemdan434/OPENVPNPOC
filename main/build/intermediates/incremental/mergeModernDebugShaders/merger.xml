@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="E:\GIT\OpenVPNPOS\main\src\main\shaders"/></dataSet><dataSet config="modern"><source path="E:\GIT\OpenVPNPOS\main\src\modern\shaders"/></dataSet><dataSet config="debug"><source path="E:\GIT\OpenVPNPOS\main\src\debug\shaders"/></dataSet><dataSet config="modernDebug"><source path="E:\GIT\OpenVPNPOS\main\src\modernDebug\shaders"/></dataSet></merger>
